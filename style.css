@@ -1,0 +1,49 @@
+.color{
+  font-family: cursive;
+  background-color: rgb(224, 103, 150);
+}
+
+header{
+  height: 160px;
+  background: rgb(202, 14, 117, 0.726);
+  border: thick double rgb(128, 18, 64, 0.596);
+}
+
+.header__text{
+  font-family: cursive;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 600;
+}
+header img{
+  float: left;
+  height: 140px;
+  width: 200px;
+}
+
+
+.conteiner-lg{
+  margin: 5px;
+  background: rgb(221, 130, 145);
+  color: rgb(63, 7, 29);
+  font-family: cursive;
+  width: 100%;
+}
+
+.content{
+  padding: 5px;
+}
+
+.footer{
+  width: 100%;
+  background-color: rgb(41,42,52,0.226);
+  box-shadow: 10px 10x 10px 5px rgba(87,86,86,0.281);
+}
+.footrow{
+  height: 60px;
+  font-family: cursive;
+}
+.foottext{
+  font-size: 15px;
+  letter-spacing: 0.4px;
+}
